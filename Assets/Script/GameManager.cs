@@ -48,21 +48,21 @@ public class GameManager : MonoBehaviour
     }
     private void WinText()
     {
-        if (ScoreLeft == 30)
+        if (ScoreLeft == 70)
         {
             WinTextCondUI.text = "Wizard Won";
-        } else if(ScoreRight == 30) {
+        } else if(ScoreRight == 70) {
             WinTextCondUI.text = "Bear Won";
         }
     }
     private void WinFound()
     {
-        if(ScoreLeft == 30) {
+        if(ScoreLeft == 70) {
             WinOrLoseUI.SetActive(true);
             Invoke("WinText", 0.2f);
             Invoke("Delay", 0.4f);
         }
-        else if(ScoreRight == 30)
+        else if(ScoreRight == 70)
         {
             WinOrLoseUI.SetActive(true);
             Invoke("WinText", 0.2f);
