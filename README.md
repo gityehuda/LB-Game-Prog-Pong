@@ -15,10 +15,10 @@ The game can be downloaded in itch.io: https://yehuda-ekglecia.itch.io/forest-po
 ```
 ├──Forest Pong
   ├── Assets
-    ├── Font
-    ├── Scenes
-    ├── Sprites
-    ├── TextMesh Pro
+    ├── Font                 # This file contains many kinds of fonts
+    ├── Scenes               # THis file contains all Scenes in the game
+    ├── Sprites              # This file contains all Sprites displayed in the game
+    ├── TextMesh Pro         # This file contains features and fonts for writing texts using TextMesh Pro
   ├── Packages
   ├── ProjectSettings
 ```
