@@ -30,6 +30,9 @@ The following controls are bound in-game, for gameplay and testing.
 | -------------------- | --------------- |
 | W                    | Move Up         |
 | S                    | Move Down       |
-
 <br>
 
+## 📽️Gameplay Footage
+ <td> <img src="https://github.com/gityehuda/gityehuda/blob/main/img/Forest%20pong%20-%20Made%20with%20Clipchamp.gif"> </td>
+
+ <br>
